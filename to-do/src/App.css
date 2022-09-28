@@ -1,0 +1,72 @@
+* {
+    background-color: aliceblue;
+}
+.main-heading {
+    text-align: center;
+    font-size: 50px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.form {
+    text-align: center;
+    border-bottom: 3px solid rgb(199, 199, 199);
+    margin-left: 20%;
+    margin-right: 20%;
+    padding-bottom: 15px;
+}
+.addTodo {
+    text-align: center;
+    padding: 10px 40px;
+    border-style: none;
+    background-color: rgba(188, 188, 220, 0.808);
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.addTodoButton {
+    text-align: center;
+    margin-top: 8px;
+    padding: 8px 40px;
+    border-color: rgb(169, 190, 209);
+    border-style: groove;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+ul {
+    list-style-type: none;
+    text-align: center;
+    margin-top: 28px;
+    margin-bottom: 28px;
+}
+ul > li {
+    margin-bottom: 18px;
+    border-bottom: 1px solid rgb(199, 199, 199);
+    margin-left: 14%;
+    margin-right: 14%;
+    font-size: 15px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(107, 24, 24);
+}
+.list-div {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%;
+}
+.todos-left {
+    text-align: center;
+    margin-left: 28%;
+    margin-right: 28%;
+    border-right: 2px solid rgb(172, 172, 172);
+    border-left: 2px solid rgb(172, 172, 172);
+}
+.big-bold {
+    font-size: 25px;
+    font-weight: bolder;
+}
+.filter-todos {
+    text-align: center;
+    margin-top: 8px;
+    padding: 8px 40px;
+    border-color: rgb(169, 190, 209);
+    border-style: groove;
+    font-size: 15px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
